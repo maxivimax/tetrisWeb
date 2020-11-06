@@ -1,0 +1,12 @@
+body{
+	background-color: white;
+	color: black;
+}
+.dad_of_grid a{
+	width: 5px;
+	height: 5px;
+	border: 5px ridge black;
+}
+.a33{	
+	background-color: red;
+}
